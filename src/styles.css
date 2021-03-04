@@ -18,7 +18,7 @@
 }
 body {
   font-family: "Pt-Sans", sans-serif;
-  background-image: url("src/images/fondo.png");
+  background-image: url("images/fondo.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
